@@ -1,0 +1,81 @@
+.amazon {
+  background-color: #2b2b31;
+  padding-left: 30px;
+  padding-bottom: 10px;
+}
+.amazon img {
+  width: 230px;
+  padding-top: 10px;
+}
+
+.list {
+  background-color: #53535b;
+  padding-bottom: 15px;
+}
+
+.list ul {
+  color: white;
+  display: inline;
+}
+
+.list ul li {
+  float: left;
+  list-style: none;
+  padding: 10px;
+}
+
+.margini {
+  margin: 55px;
+}
+
+.orange {
+  background-color: #ff9800;
+  padding: 1px;
+  margin-top: 45px;
+}
+
+.orange p {
+  text-align: center;
+  color: white;
+  font-size: 25px;
+}
+
+.natale {
+  background-image: url(../bg-image.png);
+  width: 100%;
+  margin-top: 55px;
+  height: 20vh;
+}
+
+.natale h1,
+p {
+  text-align: center;
+  color: white;
+}
+
+.natale h1 {
+  padding-top: 50px;
+}
+
+.table {
+  text-align: center;
+}
+
+.table img {
+  width: 100%;
+  height: 300px;
+}
+
+.fine {
+  background-color: #53535b;
+  padding: 1px;
+}
+
+.last {
+  background-color: #2b2b31;
+  padding-left: 490px;
+}
+
+.last img {
+  width: 210px;
+}
